@@ -1,0 +1,354 @@
+---
+title: "Atharva Phadtare- Scigram Summer School 2023"
+format: html
+editor: visual
+---
+
+![Atharva Phadtare](Atharva.jpg){width="140"}
+
+Atharva Phadtare studies in The Bishop's School, Camp, Pune. He choose to study 'Lithium Ion Batteries' as his summer School Project at Scigram Technologies Foundation. The project covered the trends of Lithium battery prices and Li and Fe yield which was plotted using Mathematica and R programming languages. I also dabbled my hands on QGIS software to study the locations of the ores and other QGIS plugins.
+
+## Lithium ion batteries
+
+Lithium-ion batteries are widely used in portable electronics (smartphones, laptops), electric vehicles, and grid storage systems due to their high energy density, low self-discharge rate, and long cycle life.
+
+The basic principle of operation of a lithium-ion battery involves the movement of lithium ions between the anode and cathode through the electrolyte, which enables the storage and release of electrical energy. During discharge, lithium ions move from the anode to the cathode, releasing energy, and during charging, lithium ions move from the cathode to the anode, storing energy. The graphite anode provides a stable and reversible host for lithium ions, while the metal oxide cathode allows for high cell voltage and energy density. The organic solvent-based electrolyte enables the transport of lithium ions between the electrodes while maintaining high cell performance.
+
+## Problems related to lithium batteries
+
+Lithium batteries are widely used in many electronic devices due to their high energy density, low self-discharge rate, and long cycle life. However, there are also some problems associated with lithium batteries, including:
+
+## 
+
+Overheating and Fire:
+
+Lithium batteries can overheat and catch fire or explode if they are overcharged, short-circuited, or damaged. This can be dangerous and has led to the recall of many products, including smartphones and laptops.
+
+## 
+
+Limited Lifetime:
+
+Although lithium batteries have a long cycle life, they do eventually wear out and lose their capacity to hold a charge. This can result in reduced performance or the need to replace the battery.
+
+## 
+
+Limited Temperature Range:
+
+Lithium batteries can be sensitive to temperature extremes. They may not perform well in very cold or very hot environments, and extreme temperatures can also increase the risk of overheating and fire.
+
+## 
+
+Cost:
+
+Lithium batteries can be more expensive than other types of batteries, which can increase the cost of electronic devices that use them.
+
+## 
+
+Environmental Concerns:
+
+Lithium batteries contain toxic chemicals that can be harmful to the environment if not disposed of properly. Recycling of lithium batteries is possible, but it can be more expensive and complicated than recycling other types of batteries.
+
+## 
+
+To mitigate these problems, manufacturers are continually improving the design and safety features of lithium batteries, and users are encouraged to follow proper charging and storage guidelines to reduce the risk of accidents.
+
+## Lithium resources in India
+
+India has limited reserves of lithium, and most of its lithium requirements are met through imports. Some known sources of lithium in India are:
+
+## 
+
+Pegmatites:
+
+Pegmatites are rocks that contain high concentrations of lithium minerals. Some pegmatites have been identified in the states of Rajasthan, Jharkhand, and Andhra Pradesh.
+
+## 
+
+Saline Brines:
+
+Saline brines are underground reservoirs of salty water that can contain dissolved lithium. Some potential sources of lithium-rich saline brines have been identified in the states of Rajasthan, Gujarat, and Tamil Nadu.
+
+## 
+
+Geothermal Springs:
+
+Some geothermal springs in the states of Himachal Pradesh and Jammu & Kashmir have been found to contain lithium.
+
+## 
+
+Lithium-ion Battery Recycling:
+
+India is also exploring the possibility of recycling lithium-ion batteries to recover and reuse the lithium in them.
+
+## 
+
+It is worth noting that India's lithium reserves are still relatively small compared to other countries, such as Australia and Chile, which are major producers of lithium. As India seeks to develop its domestic sources of lithium, it will need to balance its economic and environmental concerns and explore sustainable methods of lithium extraction and recycling.
+
+## 
+
+India's demand for lithium is expected to increase rapidly in the coming years due to the growing adoption of electric vehicles and renewable energy storage systems. As a result, India is exploring the possibility of developing its domestic lithium resources, including pegmatites, saline brines, and geothermal springs, as well as exploring options for recycling and reuse of lithium-ion batteries.
+
+However, developing domestic lithium resources and scaling up domestic production will require significant investments and technological advancements, and India is likely to remain dependent on imports of lithium for the foreseeable future.
+
+## Market
+
+The market for lithium iron batteries has been growing steadily in recent years, driven by the increasing demand for energy storage solutions for a variety of applications, including electric vehicles, renewable energy systems, backup power, and portable electronics.
+
+According to a report by Mordor Intelligence, the global market for lithium iron phosphate batteries is expected to grow at a compound annual growth rate (CAGR) of around 20% between 2020 and 2025, reaching a market size of around \$10 billion by 2025.
+
+China is currently the largest market for lithium iron batteries, driven by the government's support for electric vehicles and the growing demand for energy storage systems for renewable energy projects. However, the market is also growing in other regions, including North America, Europe, and Asia-Pacific, as the demand for clean energy solutions continues to increase.
+
+## Increased need of battery
+
+There has been an increased need for batteries in recent years, driven by several factors, including the growing demand for renewable energy sources, the adoption of electric vehicles, and the need for backup power in case of power outages.
+
+## 
+
+Renewable energy sources such as solar and wind power are becoming increasingly popular, as they offer a clean and sustainable alternative to traditional fossil fuels. However, these sources are intermittent, meaning they do not produce a constant supply of energy. Energy storage solutions, such as batteries, are needed to store excess energy produced during periods of high generation and discharge it when demand is high. This helps to ensure a more reliable and stable supply of energy.
+
+## 
+
+Electric vehicles (EVs) are also becoming more popular, as they offer a cleaner and more sustainable alternative to traditional gas-powered vehicles. However, EVs require high-capacity batteries to provide sufficient range and performance. As the adoption of EVs continues to grow, there is an increasing demand for high-quality batteries to power them.
+
+Finally, batteries are also needed for backup power in case of power outages or emergencies. This is particularly important in areas that are prone to natural disasters, such as hurricanes or earthquakes, where a reliable source of backup power can be essential.
+
+## 
+
+Overall, the increased need for batteries is being driven by the growing demand for clean energy solutions, the adoption of electric vehicles, and the need for backup power. This is expected to continue in the coming years, leading to further advancements in battery technology and increased investment in the battery industry.
+
+## Need to improve the quality of batteries
+
+While batteries are becoming increasingly important in many applications, there is also a need to improve the quality of batteries to ensure their performance, safety, and durability.
+
+## 
+
+Following are a few reasons why improving battery quality is important:
+
+## 
+
+Safety: Battery safety is critical, especially in applications such as electric vehicles and energy storage systems where large batteries are used. Poor quality batteries can be a safety hazard, with the risk of overheating, catching fire, or exploding.
+
+Performance: Batteries must meet specific performance requirements to be effective in their intended applications. For example, electric vehicles require high-capacity batteries that can provide sufficient range and performance, while energy storage systems require batteries that can discharge and recharge quickly to meet changing demand.
+
+Durability: Batteries are expected to last for many years, and their lifespan is critical to the overall cost-effectiveness of many applications. Poor quality batteries may have a shorter lifespan, leading to increased replacement costs and reduced efficiency.
+
+Sustainability: The increasing demand for batteries has also raised concerns about the sustainability of battery production and disposal. Poor quality batteries may have a higher environmental impact, with more energy and resources required for production and disposal.
+
+## Lithium iron phosphate (LiFePO4) batteries
+
+Lithium iron phosphate (LiFePO4) batteries are a type of lithium-ion battery that have some advantages over other types of lithium-ion batteries. One of the most significant advantages of LiFePO4 batteries is their superior safety. This is because the chemistry of LiFePO4 is less prone to thermal runaway, a condition that can cause a battery to overheat, catch fire, or explode.
+
+In addition to their safety benefits, LiFePO4 batteries also have a longer cycle life than many other types of lithium-ion batteries, which means they can be charged and discharged more times before they start to lose capacity. This can result in longer overall battery life and lower costs over time, as the batteries need to be replaced less frequently.
+
+However, LiFePO4 batteries do have some disadvantages as well. They tend to be less energy-dense than other types of lithium-ion batteries, which means they may not be as suitable for applications where weight and size are critical factors. They also tend to have a lower voltage, which can limit their use in some applications.
+
+## Decrease in Price of Lithium Batteries
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+#| echo: false
+
+library(tidyverse)
+library(jsonlite)
+library(highcharter)
+library(geojson)
+library(geojsonio)
+library(geojsonlint)
+library(here)
+
+##priceLithiumBattery
+
+priceLiBattery <- read_csv("priceLithiumBattery.csv")
+ x <- c("Year", "Price (in USD)")
+y <- sprintf(c("{point.%s:.0f}","USD {point.%s:.2f}"), c("year", "price"))
+tltip <- tooltip_table(x, y) 
+
+priceLiBattery  |>
+hchart('line', hcaes(x = year, y = price),
+       color = "#E69F00") |>
+
+hc_chart(backgroundColor = "#00000d") |>
+
+hc_title(text = "Price trend of Lithium batteries", fontFamily = 'serif', fontWeight = "bold", style = list(color = "#ffffff")) |>
+ 
+
+
+ 
+   hc_tooltip(
+    useHTML = TRUE,
+    headerFormat = "",
+    pointFormat = tltip 
+    ) |> 
+
+hc_subtitle(text = "Scigram Technologies Foundation - Summer School", verticalAlign = "bottom", align = 'right', style = list(color = "#ffffff"))
+
+```
+
+## Where Does India Stand
+
+## Location of iron ores
+
+Iron ores and lithium ores are found in different regions around the world. Here is some information on their locations:
+
+Iron ores: Iron ores are found in many parts of the world, with the largest reserves located in Australia, Brazil, Russia, China, and India. Other significant iron ore-producing countries include Canada, Ukraine, South Africa, Sweden, and the United States. Iron ore deposits are usually found in sedimentary rocks, such as banded iron formations, and can also be found in igneous rocks such as granite and basalt.
+
+## Iron yield
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+#| echo: false
+##countries_yieldIronReserve
+
+yieldFe <- read_csv("countries_yieldIronReserve.csv")
+
+yieldFe |>
+hchart(type = "column",
+hcaes(x = country,
+      y = reserve_billionTones)) |>
+
+hc_yAxis(opposite = FALSE,
+         labels = list(format = "{value}")) |>
+
+hc_tooltip(pointFormat = '{point.x:}
+
+{point.y:.2f} billion Tonnes')|>
+
+hc_chart(backgroundColor = "#09101d") |>
+
+hc_title(text = "Top ten countries with highest Iron yield", fontFamily = 'serif', fontWeight = "bold", style = list(color = "#ffffff")) |>
+
+hc_subtitle(text = "Scigram Technologies Foundation - Summer School", verticalAlign = "bottom", align = 'right', style = list(color = "#ffffff"))
+
+```
+
+## Indian Iron Reserves
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+#| echo: false
+
+## Locations
+
+worldLiReserve <- read_csv("Li_reserve.csv") |>
+geojson_json()
+
+ironReserve <- read_csv("Fe_reserve.csv") |>
+geojson_json()
+
+world <- geojson_read("world.geojson")
+
+india <- geojson_read("India.geojson")
+
+
+
+highchart(type = "map") |> 
+
+hc_chart(backgroundColor = "#132240") |>
+  
+hc_add_series(mapData = india,
+              showInLegend = FALSE,
+              nullColor ="#00000d",
+              borderWidth = 0) |>
+
+hc_add_series(data = ironReserve,
+              type = "mappoint",
+              color = hex_to_rgba("#0246FA", 1),
+              geojson = TRUE,
+              marker = list(lineWidth = 1, lineColor = "#F13B21", radius = 6),
+              name = "Iron",
+              dataLabels = list(enabled = FALSE),
+              showInLegend = FALSE) |>
+
+hc_tooltip(pointFormat = "<b>{point.properties.name}</b>") |>
+
+hc_title(text = "Indian Iron Reserves", fontFamily = 'serif', fontWeight = "bold", style = list(color = "#ffffff")) |>
+
+hc_subtitle(text = "Scigram Technologies Foundation - Summer School", verticalAlign = "bottom", align = 'right', style = list(color = "#ffffff")) |>
+
+hc_mapNavigation(enabled = TRUE)
+
+```
+
+## Location of lithium ores
+
+Lithium ores: Lithium ores are found in several countries around the world, with the largest reserves located in Bolivia, Chile, and Argentina in South America. Other significant lithium-producing countries include Australia, China, and the United States. Lithium is primarily extracted from brine deposits and hard rock ores. Brine deposits are found in salt flats or salt pans, while hard rock ores are found in pegmatites, which are igneous rocks that contain large crystals. The Greenbushes Lithium mine in Western Australia is one of the largest hard rock lithium mines in the world.
+
+## Lithium Yield
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+#| echo: false
+
+##countries_yieldIronReserve
+
+yieldLi <- read_csv("countries_yieldLithiumReserve.csv")
+
+yieldLi |>
+  hchart(type = "column",
+       hcaes(x = country,
+             y = reserve_Tons)) |>
+
+hc_yAxis(opposite = FALSE,
+         labels = list(format = "{value}")) |>
+
+hc_tooltip(pointFormat = '{point.x:}
+           {point.y:.2f} *10^3 Tonnes')|>
+
+hc_chart(backgroundColor = "#09101d") |>
+
+hc_title(text = "Top ten countries with highest Lithium yield", fontFamily = 'serif', fontWeight = "bold", style = list(color = "#ffffff")) |>
+
+hc_subtitle(text = "Scigram Technologies Foundation - Summer School", verticalAlign = "bottom", align = 'right', style = list(color = "#ffffff"))
+
+```
+
+## 
+
+## World Lithium Reserves
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+#| echo: false
+## Locations
+
+
+
+
+highchart(type = "map") |>
+hc_chart(backgroundColor = "#132240") |>
+  
+hc_add_series(mapData = world,
+              showInLegend = FALSE,
+              nullColor ="#09101D",
+              borderWidth = 0,
+              backgroundColor = "#132240") |>
+
+hc_add_series(data = worldLiReserve,
+              type = "mappoint",
+              color = hex_to_rgba("#F13B21", 1),
+              geojson = TRUE,
+              marker = list(lineWidth = 1, lineColor = "#0246FA", radius = 6),
+              showInLegend = FALSE,
+              name = "Lithium",
+              dataLabels = list(enabled = FALSE)) |>
+
+hc_tooltip(pointFormat = "<b>{point.properties.name}</b>") |>
+
+hc_title(text = "World Lithium Reserves", fontFamily = 'serif', fontWeight = "bold", style = list(color = "#ffffff")) |>
+
+hc_subtitle(text = "Scigram Technologies Foundation - Summer School", verticalAlign = "bottom", align = 'right', style = list(color = "#ffffff")) |>
+
+hc_mapNavigation(enabled = TRUE)
+
+```
+
+## 
+
+Overall, the locations of iron and lithium ores are different, with iron ores found in many parts of the world, while lithium ores are primarily found in South America, Australia, and China.
+
+## Acknowlegments
+
+![](Scigram.jpg){width="400"}
+
+Dr. Girish Arabale
+
+Dr.Pranaya Joshi
+
+Dr.Devyani Patil

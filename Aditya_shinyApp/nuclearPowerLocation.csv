@@ -1,0 +1,31 @@
+﻿reactor_name,name,location,power_Mwe,type,lat,lon,mag
+Tarapur Atomic Power Plant-1 (TAPS-1),"Tarapur, Maharastra","TARAPUR, MAHARASTRA",160,BWR,19.828981,72.661206,5
+Tarapur Atomic Power Plant-2 (TAPS-2),"Tarapur, Maharastra","TARAPUR, MAHARASTRA",160,BWR,19.828981,72.661206,5
+Rajasthan Atomic Power Plant-1 (RAPS-1),"Kota, Rajasthan","KOTA, RAJASTHAN",100,PHWR,24.872222,75.613889,5
+Rajasthan Atomic Power Plant-2 (RAPS-2),"Kota, Rajasthan","KOTA, RAJASTHAN",200,PHWR,24.872222,75.613889,5
+Madras Atomic Power Plant-1 (MAPS-1),"Kalpakkam, Tamilnadu","KALPAKKAM, TAMILNADU",220,PHWR,12.5575,80.175,5
+Madras Atomic Power Plant-2 (MAPS-2),"Kalpakkam, Tamilnadu","KALPAKKAM, TAMILNADU",220,PHWR,12.5575,80.175,5
+Narora Atomic Power Plant-1 (NAPS-1),"Narora, Uttar Pradesh","NARORA, UTTAR PRADESH",220,PHWR,28.158056,78.409444,5
+Narora Atomic Power Plant-2 (NAPS-2),"Narora, Uttar Pradesh","NARORA, UTTAR PRADESH",220,PHWR,28.158056,78.409444,5
+Kakrapar Atomic Power Plant-1 (KAPS-1),"Tapi, Gujarat","TAPI, GUJARAT",220,PHWR,21.238611,73.35,5
+Kakrapar Atomic Power Plant-2 (KAPS-2),"Tapi, Gujarat","TAPI, GUJARAT",220,PHWR,21.238611,73.35,5
+Kaiga Generating Station-1 (KGS-1),"Kaiga, Karnataka","KAIGA, KARNATAKA",220,PHWR,14.865322,74.439642,5
+Kaiga Generating Station-2 (KGS-2),"Kaiga, Karnataka","KAIGA, KARNATAKA",220,PHWR,14.865322,74.439642,5
+Rajasthan Atomic Power Plant-3 (RAPS-3),"Kaiga, Karnataka","KOTA, RAJASTHAN",220,PHWR,24.872222,75.613889,5
+Rajasthan Atomic Power Plant-4 (RAPS-4),"Kaiga, Karnataka","KOTA, RAJASTHAN",220,PHWR,24.872222,75.613889,5
+Kaiga Generating Station-3 (KGS-3),"Kaiga, Karnataka","KAIGA, KARNATAKA",220,PHWR,14.865322,74.439642,5
+Kaiga Generating Station-4 (KGS-4),"Kaiga, Karnataka","KAIGA, KARNATAKA",220,PHWR,14.865322,74.439642,5
+Tarapur Atomic Power Plant-3 (TAPS-3),"Tarapur, Maharastra",,540,PHWR,19.828981,72.661206,5
+Tarapur Atomic Power Plant-4 (TAPS-4),"Tarapur, Maharastra",,540,PHWR,19.828981,72.661207,5
+Rajasthan Atomic Power Plant-5 (RAPS-5),"Kota, Rajasthan","KOTA, RAJASTHAN",220,PHWR,24.872222,75.613889,5
+Rajasthan Atomic Power Plant-6 (RAPS-6),"Kota, Rajasthan","KOTA, RAJASTHAN",220,PHWR,24.872222,75.613889,5
+Kudankulam Nuclear Power Station-1 (KKNPS-1),"Koodankulam, Tamilnadu","KOODANKULAM, TAMILNADU",1000,PWR,8.168889,77.7125,5
+Kudankulam Nuclear Power Station-2 (KKNPS-2),"Koodankulam, Tamilnadu","KOODANKULAM, TAMILNADU",1000,PWR,8.168889,77.7125,5
+Kakrapar Atomic Power Plant-3 (KAPS-3),"Surat, Gujarat",,,,,,5
+Kakrapar Atomic Power Plant-4 (KAPS-4),"Surat, Gujarat",,,,,,5
+Rajasthan Atomic Power Plant-3 (RAPS-7),,,,,,,5
+Rajasthan Atomic Power Plant-3 (RAPS-8),,,,,,,5
+Kudankulam Nuclear Power Station-1 (KKNPS-3),,,,,,,5
+Kudankulam Nuclear Power Station-1 (KKNPS-4),,,,,,,5
+BHAVINI PFBR Atomic Power Station (PFBR),,,,,12.5575,80.175,5
+Ghorakpur Nuclear Power Plant (GHAVP),"Fatehabad, Haryana",,,,29.441389,75.632222,5
